@@ -1,4 +1,4 @@
-# Checksum Look & Feel (hash-checker mock-up)  / Win Vista Plastic Look and Feel for Swing
+# Checksum Look & Feel (hash-checker mock-up)  / Win 7/Vista Glossy Plastic Look and Feel for Swing
 ## based on looks of Checksum Validator
 
 #### Important Note : Purely AI coded. Bugs and Errors may exist. Please use with caution !!!
